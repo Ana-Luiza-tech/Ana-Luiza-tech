@@ -31,6 +31,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/Ana-Luiza-tech/Ana-Luiza-tech/output/snake.svg](https://raw.githubusercontent.com/Ana-Luiza-tech/Ana-Luiza-tech/c6ec491cd789c10312d3bfc6d06ee8d767979799/snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ana-Luiza-tech/Ana-Luiza-tech/c6ec491cd789c10312d3bfc6d06ee8d767979799/snake.svg" alt="Snake animation" />
 
 ###
